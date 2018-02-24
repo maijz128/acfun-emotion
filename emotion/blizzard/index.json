@@ -1,0 +1,9 @@
+{
+	"name": "AC先锋",
+	"identify": "blizzard",
+	"baseURL": "http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/blizzard/(*).gif?v=0.1",
+	"startIndex": 1,
+	"endIndex": 21,
+	"wildcard": "(*)",
+	"wildcardLength": 2
+}

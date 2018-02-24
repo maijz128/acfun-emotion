@@ -1,0 +1,9 @@
+{
+	"name": "彩娘",
+	"identify": "ac3",
+	"baseURL": "http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/ac3/(*).gif?v=0.1",
+	"startIndex": 1,
+	"endIndex": 50,
+	"wildcard": "(*)",
+	"wildcardLength": 2
+}

@@ -1,0 +1,72 @@
+.edui-popup-emotion td {
+    height: 67px;
+	width: 67px;
+    border: 1px solid #BAC498;
+    border-collapse: collapse;
+    vertical-align: middle;
+}
+.edui-popup-emotion td > span {
+    padding: 0 5px;
+    display: block;
+}
+.edui-popup-emotion td img{
+    cursor:pointer;max-width:55px;max-height:55px;display:block;
+    margin: 0;
+    width: auto;
+    height: auto;
+}
+
+
+.edui-popup-emotion .edui-emotion-smileytable {
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.edui-popup-emotion .edui-emotion-wrapper {
+    padding: 15px;
+}
+
+.edui-popup-emotion .edui-tab-nav{
+    height: auto;
+    *height: 31px;
+}
+.edui-popup-emotion .edui-emotion-tabs{
+    clear: both;
+    width: 0;
+    height: 0;
+}
+
+.edui-popup-emotion .edui-tab-content {
+    padding: 8px 0;
+}
+
+.edui-popup-emotion .edui-emotion-preview-box {
+    width:90px;
+    height:76px;
+    border:2px solid #9cb945;
+    background:#FFFFFF;
+    background-position:center;
+    background-repeat:no-repeat;
+    position: absolute;
+    top: 62px;
+    left: 417px;
+    display: none;
+}
+
+.edui-popup-emotion .edui-tab-text {
+    font-size: 12px;
+}
+
+.edui-popup-emotion .edui-emotion-preview-left {
+    left: 19px;
+}
+
+.edui-popup-emotion .edui-emotion-preview-img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center center;
+}

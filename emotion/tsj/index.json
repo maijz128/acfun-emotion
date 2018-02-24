@@ -1,0 +1,9 @@
+{
+	"name": "兔斯基",
+	"identify": "tsj",
+	"baseURL": "http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/tsj/(*).gif?v=0.1",
+	"startIndex": 1,
+	"endIndex": 40,
+	"wildcard": "(*)",
+	"wildcardLength": 2
+}

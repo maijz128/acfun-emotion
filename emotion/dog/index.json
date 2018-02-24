@@ -1,0 +1,9 @@
+{
+	"name": "犬娘",
+	"identify": "dog",
+	"baseURL": "http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/dog/(*).gif?v=0.1",
+	"startIndex": 1,
+	"endIndex": 16,
+	"wildcard": "(*)",
+	"wildcardLength": 2
+}

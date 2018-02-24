@@ -1,0 +1,9 @@
+{
+	"name": "TD猫",
+	"identify": "td",
+	"baseURL": "http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/td/(*).gif?v=0.1",
+	"startIndex": 1,
+	"endIndex": 40,
+	"wildcard": "(*)",
+	"wildcardLength": 2
+}

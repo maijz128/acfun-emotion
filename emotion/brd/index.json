@@ -1,0 +1,9 @@
+{
+	"name": "皮尔德",
+	"identify": "brd",
+	"baseURL": "http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/brd/(*).gif?v=0.1",
+	"startIndex": 1,
+	"endIndex": 40,
+	"wildcard": "(*)",
+	"wildcardLength": 2
+}

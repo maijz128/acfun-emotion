@@ -1,0 +1,9 @@
+{
+	"name": "新娘",
+	"identify": "ac2",
+	"baseURL": "http://cdn.aixifan.com/dotnet/20130418/umeditor/dialogs/emotion/images/ac2/(*).gif?v=0.1",
+	"startIndex": 1,
+	"endIndex": 55,
+	"wildcard": "(*)",
+	"wildcardLength": 2
+}
