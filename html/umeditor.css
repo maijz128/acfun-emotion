@@ -1,0 +1,30 @@
+
+.edui-popup-emotion .edui-tab-nav {
+    height: 30px;
+}
+.edui-tab-nav {
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #ddd;
+    list-style: none;
+    height: 30px;
+}
+.edui-tab-nav .edui-tab-item {
+    float: left;
+    margin-bottom: -1px;
+    margin-top: 1px;
+    margin-top: 0 9;
+    _width: 64px;
+}
+.edui-tab-nav  .edui-tab-text {
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+    background-color: #fff;
+    padding: 8px 12px;
+    color: #555;
+    cursor: default;
+}
+.edui-tab-nav  .edui-tab-text:hover {
+	color: #9cb945;
+	cursor: pointer;
+}
